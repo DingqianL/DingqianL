@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dingqian Liu. I am a Ph.D. Candidate in Economics & a Financial Economist.
+- 👋 Hi, I’m Sara Dingqian Liu. I am a Ph.D. in Financial Economist.
 - 👀 I’m interested in Corporate Finance, Behaviorial Finance and Macroeconomics.
 - 🌱 I’m enthusiastic with Natural Language Processing and Machine Learning. I am learning Deep Learning with text categorization.
 - 💞️ I’m looking to collaborate on paper about leverage, attention, text analysis & stock market.
